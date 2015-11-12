@@ -4,7 +4,7 @@
 
 // Our mixin
 .scw-dummy-image {
-  @include fpo();
+  @include fpo(75%, $color--green, $color--white, 'sassy!');
 }
 
 

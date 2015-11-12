@@ -1,12 +1,12 @@
 .scw-dummy-image {
-  background-color: #438ccb;
+  background-color: #8dc63f;
   position: relative; }
   .scw-dummy-image:before {
     content: '';
     display: block;
-    padding-bottom: 100%; }
+    padding-bottom: 75%; }
   .scw-dummy-image:after {
-    content: 'FPO';
+    content: "sassy!";
     color: #fff;
     font: 20px/1 Helvetica;
     position: absolute;
